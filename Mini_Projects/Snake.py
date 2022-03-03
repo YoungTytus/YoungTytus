@@ -35,7 +35,6 @@ def init_vars():
 
 init_vars()
 
-
 def show_score_speed(color, font, size):
     score_font = pygame.font.SysFont(font, size)
     score_surface = score_font.render(f'Score: {score}', True, color)
