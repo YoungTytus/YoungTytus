@@ -1,8 +1,9 @@
 👋 Hi, I’m @YoungTytus
-❤ Python is my second love
-🌱 I’m currently learning C#.
-
-Programming is my passion and I see myself doing this in the future. My favorite language is Python and it is the reason why I started loving programming again. I am a fast learner with determination when it comes to solving problems.
+🌱 I’m currently learning something new.
+1️⃣ Python
+2️⃣ C#/.NET
+🚮 JAVA
+Programming is my passion and I see myself doing this in the future. My favorite language is Python and I am currently reading about AI in C# and Python. I want be I am a fast learner with determination when it comes to solving problems.
 
 <!---
 YoungTytus/YoungTytus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
